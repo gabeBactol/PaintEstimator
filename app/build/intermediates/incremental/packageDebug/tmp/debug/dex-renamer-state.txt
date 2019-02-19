@@ -1,0 +1,4 @@
+#Mon Feb 18 20:41:54 PST 2019
+base.0=C\:\\Users\\erielgab360\\Documents\\GitHub\\PaintEstimator\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

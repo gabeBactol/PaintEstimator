@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Paint Estimator</string>
+    <string name="paint_estimator_text">Paint Estimator</string>
+    <string name="enter_dimensions_text">Enter the dimensions of the room in feet.</string>
+    <string name="length_text">Length</string>
+    <string name="length_value">0</string>
+    <string name="width_text">Width</string>
+    <string name="width_value">0</string>
+    <string name="height_text">Height</string>
+    <string name="height_value">0</string>
+    <string name="compute_gallons_button">Compute Gallons</string>
+    <string name="help_button">Help</string>
+    <string name="gallons_needed_text">Gallons Needed:</string>
+    <string name="interior_surface_area_text">Interior Surface Area:</string>
+    <string name="interior_surface_area_value">0 ft</string>
+    <string name="gallons_needed_value">0.0</string>
+    <string name="input_room_dimensions_button">Input Room Dimensions</string>
+    <string name="help_text">This paint job calculator computes the approximate number of gallons needed to paint a single coat covering four walls  and the ceiling of an interior room.\n\nIf you wish to apply multiple coats, multiply the number of computed gallons by the number of coats needed.  You must provide the dimensions of the room as well as the number of  doors and windows.\n\nThe input for the dimensions of the room will be the length,  width, and height of the room.  In addition, you must also  provide the number of doors and windows in the room; their  area will not be included in the surface area to be painted.\n\nThis calculator assumes a door is a standard measurement of  7 x 3 feet and a window is a standard measurement of 4 x 4  feet.\n\nA gallon of paint will cover approximately 275 square feet.</string>
+    <string name="estimated_paint_required_text">Estimated Paint Required: </string>
+    <string name="doors_text">Doors</string>
+    <string name="doors_value">0</string>
+    <string name="windows_text">Windows</string>
+    <string name="windows_value">0</string>
+    <string name="estimated_paint_value">0.0 gallons</string>
+    <string name="doors_and_windows_text">How many doors and windows would you like?</string>
+</resources>
